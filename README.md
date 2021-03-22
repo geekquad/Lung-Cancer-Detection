@@ -46,9 +46,6 @@ Keep only the largest air pocket (the human body has other pockets of air here a
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/4sMC4m7/air.jpg" alt="air" border="0"></a>
 
-## Preprocessing our Data:
-
-
 
 
 ## 3D Convolutional Neural Network:
