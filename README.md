@@ -63,7 +63,7 @@ There are two maxpooling layers with strides=2 along each axis. These strides re
 
 
 
-**Citation**
+### **Citation**
 
 ```
 @article{,
